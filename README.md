@@ -45,7 +45,7 @@ import matplotlib.pyplot as plt
 ###  Step 2: Read the Image
 
 ```
-image = cv2.imread('sai1.jpeg') 
+image = cv2.imread('loki1.jpeg') 
 ```
 
 ---
