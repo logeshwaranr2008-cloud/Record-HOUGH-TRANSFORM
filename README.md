@@ -1,6 +1,6 @@
 # Detect-the-lines-using-Hough-Transform
 
-##  Developed By: LOGESHWARAN C
+##  Developed By: LOGESHWARAN R
 
 ## Register: No: 212225040205
 
